@@ -1,5 +1,5 @@
 /*
-	@author 100835968 Syed Arsal Abbas
+	@author Syed Arsal Abbas
 */
 
 Set up Instructions
