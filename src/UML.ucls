@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="sysc3303Iteration4.Client" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303Iteration4/Client.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="217" x="1542" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="2" language="java" name="sysc3303Iteration4.ErrorSimulator.PacketType" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303Iteration4/ErrorSimulator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3060" y="709"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="3" language="java" name="sysc3303Iteration4.ErrorSimulator.ErrCommands" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303Iteration4/ErrorSimulator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2999" y="1714"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="4" language="java" name="sysc3303Iteration4.ErrorSimulator.RequestReceivedThread" 
+    project="SYSC3303Iteration4" file="/SYSC3303Iteration4/src/sysc3303Iteration4/ErrorSimulator.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="164" x="3168" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="sysc3303Iteration4.ErrorSimulator" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303Iteration4/ErrorSimulator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="345" x="3168" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="sysc3303Iteration4.ErrorSimulator.ForwardThread" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303Iteration4/ErrorSimulator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="189" x="3372" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="sysc3303Iteration4.Host" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303Iteration4/Host.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="189" x="1313" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="sysc3303Iteration4.Listener" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303Iteration4/Listener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="113" x="1799" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="sysc3303Iteration4.Server" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303Iteration4/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="440" x="1313" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="sysc3303.iteration4.projectfiles.HostUtilities.SystemCommands" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/HostUtilities/SystemCommands.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="195" x="3601" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="sysc3303.iteration4.projectfiles.HostUtilities.SystemCommands.Command" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/HostUtilities/SystemCommands.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="195" x="3601" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="sysc3303.iteration4.projectfiles.HostUtilities.PacketUtilities" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/HostUtilities/PacketUtilities.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="343" x="460" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="sysc3303.iteration4.projectfiles.HostUtilities.MenuCommands" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/HostUtilities/MenuCommands.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="195" x="843" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="sysc3303.iteration4.projectfiles.HostUtilities.IOStreams" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/HostUtilities/IOStreams.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="195" x="1078" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="sysc3303.iteration4.projectfiles.HostUtilities.HostPacketProcessorUtil" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/HostUtilities/HostPacketProcessorUtil.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1269" width="242" x="2705" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="sysc3303.iteration4.projectfiles.AbortException" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/AbortException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="141" x="2987" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="sysc3303.iteration4.projectfiles.AcknowlegementPacket" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/AcknowlegementPacket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="277" x="4877" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="sysc3303.iteration4.projectfiles.Connections" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/Connections.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="675" width="293" x="1952" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="sysc3303.iteration4.projectfiles.InputOutputStreams" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/InputOutputStreams.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="184" x="236" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="sysc3303.iteration4.projectfiles.Logging" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/Logging.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="299" x="2366" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="sysc3303.iteration4.projectfiles.Packet" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/Packet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="358" x="4429" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="22" language="java" name="sysc3303.iteration4.projectfiles.Packet.Type" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/Packet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="161" x="4676" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="23" language="java" name="sysc3303.iteration4.projectfiles.PacketDATA" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/PacketDATA.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="220" x="4416" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="24" language="java" name="sysc3303.iteration4.projectfiles.PacketError.ErrorType" 
+    project="SYSC3303Iteration4" file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/PacketError.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="283" x="3770" y="2061"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="25" language="java" name="sysc3303.iteration4.projectfiles.PacketError" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/PacketError.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="217" x="3836" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="sysc3303.iteration4.projectfiles.PortConfiguration" project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/PortConfiguration.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="141" x="55" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="sysc3303.iteration4.projectfiles.ReadWriteRequestPacket" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/ReadWriteRequestPacket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="283" x="4093" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="28" language="java" name="sysc3303.iteration4.projectfiles.ReadWriteRequestPacket.Actions" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/ReadWriteRequestPacket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="141" x="4093" y="2061"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="29" language="java" name="sysc3303.iteration4.projectfiles.ReadWriteRequestPacket.Modes" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/ReadWriteRequestPacket.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="141" x="4274" y="2061"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="30" language="java" name="sysc3303.iteration4.projectfiles.TrivialTransferHandler" 
+    project="SYSC3303Iteration4" 
+    file="/SYSC3303Iteration4/src/sysc3303/iteration4/projectfiles/TrivialTransferHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="374" x="1952" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="31">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <nesting id="32">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <association id="33">    
+    <end type="SOURCE" refId="25" navigable="false" variant="ASSOCIATION">      
+      <attribute id="34" name="errorType"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="36">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="22"/>  
+  </nesting>  
+  <association id="37">    
+    <end type="SOURCE" refId="5" navigable="false" variant="ASSOCIATION">      
+      <attribute id="38" name="commandError"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="30" navigable="false" variant="ASSOCIATION">      
+      <attribute id="41" name="connection"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <end type="SOURCE" refId="10" navigable="false" variant="ASSOCIATION">      
+      <attribute id="44" name="commandList"/>      
+      <multiplicity id="45" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="46">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <nesting id="48">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <association id="49">    
+    <end type="SOURCE" refId="27" navigable="false" variant="ASSOCIATION">      
+      <attribute id="50" name="actions"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="52">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="54">    
+    <end type="SOURCE" refId="7" navigable="false" variant="ASSOCIATION">      
+      <attribute id="55" name="server"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="5" navigable="false" variant="ASSOCIATION">      
+      <attribute id="58" name="requestReceived"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="60">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="28"/>  
+  </nesting>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="62">    
+    <end type="SOURCE" refId="5" navigable="false" variant="ASSOCIATION">      
+      <attribute id="63" name="packetType"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="9" navigable="false" variant="ASSOCIATION">      
+      <attribute id="66" name="host"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="68">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="69">    
+    <end type="SOURCE" refId="21" navigable="false" variant="ASSOCIATION">      
+      <attribute id="70" name="packetType"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="30" navigable="false" variant="ASSOCIATION">      
+      <attribute id="73" name="server"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="75">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="76">    
+    <end type="SOURCE" refId="27" navigable="false" variant="ASSOCIATION">      
+      <attribute id="77" name="modes"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true" variant="ASSOCIATION"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="79">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
