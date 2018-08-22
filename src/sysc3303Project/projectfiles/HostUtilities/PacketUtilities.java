@@ -1,7 +1,5 @@
 /*
- @author 100989743 abdulrahim kaddoura
- @author 100835968 Syed Arsal Abbas
- @author 101007487 Qudus Agbalaya
+ @author Syed Arsal Abbas
  */
 
 package sysc3303Project.projectfiles.HostUtilities;
